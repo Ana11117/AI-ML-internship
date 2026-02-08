@@ -1,0 +1,6 @@
+Bill=float(input("total Bill Amount: "))
+people=int(input("number of people: "))
+share=(Bill/people)
+print(f"Total Bill:{Bill}.Each Person Pays:{share}")
+print(type(Bill))
+print(type(people))
