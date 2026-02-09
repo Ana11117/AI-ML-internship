@@ -1,0 +1,12 @@
+file=open("example.txt","r")
+print(file.readline())
+print(file.readlines())
+file.close()
+file=open("example2.txt","w")
+file.write("hi hello welcome")
+ile=open("example2.txt","a")
+file.write("\n im Ana")
+file.close()
+with open("","rb")as f:
+    image=f.read()
+    print(image)
