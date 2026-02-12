@@ -1,0 +1,13 @@
+order_id,customer_id,amount,quantity,status
+1001,C001,2500,2,Delivered
+1002,C002,1800,1,Shipped
+1003,C003,,3,Delivered
+1004,C004,5200,5,Cancelled
+1005,C005,3000,,Delivered
+1002,C002,1800,1,Shipped
+, C006,4500,2,Delivered
+1007,C007,12000,1,Delivered
+1008,C008,700,4,Returned
+1009,C009,2500,2,Delivered
+1010,C010,,1,Shipped
+1004,C004,5200,5,Cancelled
